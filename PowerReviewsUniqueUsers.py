@@ -8,9 +8,9 @@ import xml.etree.ElementTree as ET
 ######################################
 
 # file definitions
-input_file = '/Users/jeff.lamoureux/Documents/Clients/REI/review_data_complete.xml'
-key_file = open('/Users/jeff.lamoureux/Documents/Clients/REI/keys', 'w')
-output_file = '/Users/jeff.lamoureux/Documents/Clients/REI/clean_rei_complete.xml'
+input_file = '/Path/to/file/review_data_complete.xml'
+key_file = open('/Path/to/file/keys', 'w')
+output_file = '/Path/to/file/clean_rei_complete.xml'
 #reviewsList = {}
 reviewers = {}
 nicknames = {}
